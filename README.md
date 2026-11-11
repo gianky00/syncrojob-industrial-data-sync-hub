@@ -57,6 +57,9 @@
 ### Installazione Ambiente
 
 ```powershell
+git clone https://github.com/gianky00/syncrojob-industrial-data-sync-hub.git
+cd syncrojob-industrial-data-sync-hub
+
 # Creazione ambiente virtuale e installazione dipendenze
 uv venv
 uv sync
